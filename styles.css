@@ -1,0 +1,14 @@
+/*tags*/
+body {background-color: #f3f3f3;}
+hr {width: 100%;}
+img {height: 50%; width: 50%; border: solid; border-color:white; border-radius: 5px 5px 5px 5px; border-width: 0px;}
+h1 {color: #2b2b2b  ; font-family: Calibri; }
+h1 {color: #2b2b2b ; font-family: Calibri; }
+.footer {color:#2b2b2b; font-family: Calibri; font-size: 16px;}
+
+/*class*/
+.content {
+    color: white; font-family: Calibri; font-size: 14px; display: block; width: 600px; height: 200px; background-color: #2b2b2b; padding: 15px;
+    border: solid white 0px; border-radius: 5px 5px 5px 5px;
+}
+.headtext {color:#2b2b2b; font-family: Calibri; font-size: 14px; font-style: italic}
